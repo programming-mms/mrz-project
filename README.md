@@ -1,1 +1,1 @@
-# mrz-project
+This is the complete Mrz project with all of its deliverables. Thanks
